@@ -2,30 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
   <title>Growing Flowers</title>
-  
  
-  <keydef keys="perennial-label">    
-    <topicmeta>
-      <keywords>
-        <keyword outputclass="label">Perennial Plant</keyword>
-      </keywords>
-    </topicmeta>
-  </keydef>
-  <keydef keys="annual-label">    
-    <topicmeta>
-      <keywords>
-        <keyword outputclass="label">Annual Plant</keyword>
-      </keywords>
-    </topicmeta>
-  </keydef>
-  <topicref href="topics/introduction.dita">
-    <topicmeta>
-      <data name="wh-tile">
-        <data name="hide" value="yes"/>
-      </data>
-    </topicmeta>
-  </topicref>
-  
   <topicref href="topics/care.dita">
   <topicref href="tasks/pruning.dita"/>
   <topicref href="tasks/gardenPreparation.dita"/>
